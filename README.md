@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Tom!
+
+* I'm currently a student at the School of Code (www.schoolofcode.co.uk)
+* I'm learning JavaScript, React, Node.js, SQL and more!
 
 <!--
 **Tommosaurus/Tommosaurus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
