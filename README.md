@@ -22,7 +22,7 @@ I really enjoy software development for its unique combination of technical and 
 
 <div align="center">
   <a href="https://github.com/Tommosaurus">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tommosaurus&show_icons=true&theme=light"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tommosaurus&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommosaurus&layout=compact&langs_count=16&theme=light"/>
 </div>
   
