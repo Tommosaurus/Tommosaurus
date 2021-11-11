@@ -28,9 +28,9 @@ I really enjoy software development for its unique combination of technical and 
 <hr>
 
 <p align="center"><img align="center" src="https://github.com/Tommosaurus/Tommosaurus/blob/output/github-contribution-grid-snake.svg" /></p>
-  ##
+
   
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=Archianne&color=green&label=Views" /></p>
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=Tommosaurus&color=green&label=Views" /></p>
 <!--
 **Tommosaurus/Tommosaurus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
