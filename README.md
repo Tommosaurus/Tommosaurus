@@ -8,6 +8,7 @@
 
 ### Hi there 👋 I'm Tom!
 <div>
+ <br></br>
 * I'm a graduate of the School of Code (www.schoolofcode.co.uk)
 
 After a varied career including several years in the French Alps working in the ski industry I was ready for a new challenge. Upon returning to the UK I seized the opportunity to join the School of Code bootcamp. This was a 16 week, immersive full-time full-stack software engineering bootcamp. I am now looking for my first full-time role as a software developer :)
@@ -21,7 +22,7 @@ I really enjoy software development for its unique combination of technical and 
 
 <div align="center">
   <a href="https://github.com/Tommosaurus">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tommosaurus&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tommosaurus&show_icons=true&theme=light"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommosaurus&layout=compact&langs_count=16&theme=light"/>
 </div>
   
