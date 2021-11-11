@@ -9,6 +9,7 @@
 ### Hi there 👋 I'm Tom!
 <div>
  <br></br>
+ 
 * I'm a graduate of the School of Code (www.schoolofcode.co.uk)
 
 After a varied career including several years in the French Alps working in the ski industry I was ready for a new challenge. Upon returning to the UK I seized the opportunity to join the School of Code bootcamp. This was a 16 week, immersive full-time full-stack software engineering bootcamp. I am now looking for my first full-time role as a software developer :)
