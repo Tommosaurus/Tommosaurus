@@ -13,7 +13,7 @@
 
 After a varied career including several years in the French Alps working in the ski industry I was ready for a new challenge. Upon returning to the UK I seized the opportunity to join the School of Code bootcamp. This was a 16 week, immersive full-time full-stack software engineering bootcamp. I am now looking for my first full-time role as a software developer :)
 
-I really enjoy software development for its unique combination of technical and creative aspects. I love working collaboratively in an environment of constant growth so Tech is perfect with its constantly growing and changing environment. There are new things to learn all the time and I want to be part of shaping the future through technology!
+I really enjoy software development for its unique combination of technical and creative aspects. I love working collaboratively in an environment of constant growth so Tech is perfect with its constantly growing and changing environment with endless learning opportunities. I want to be part of shaping the future through technology!
 </div>
 
 ##
