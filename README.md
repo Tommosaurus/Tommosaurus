@@ -21,8 +21,8 @@ I really enjoy software development for its unique combination of technical and 
 
 <div align="center">
   <a href="https://github.com/Tommosaurus">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Tommosaurus&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tommosaurus&layout=compact&langs_count=16&theme=light"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tommosaurus&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommosaurus&layout=compact&langs_count=16&theme=light"/>
 </div>
   
 <hr>
@@ -30,7 +30,7 @@ I really enjoy software development for its unique combination of technical and 
 
 <p align="center"><img align="center" src="https://github.com/Tommosaurus/Tommosaurus/blob/output/github-contribution-grid-snake.svg" /></p>
   
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=Tommosaurus&color=green&label=Views" /></p>
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=tommosaurus&color=green&label=Views" /></p>
 <!--
 **Tommosaurus/Tommosaurus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
