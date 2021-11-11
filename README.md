@@ -30,9 +30,6 @@ I really enjoy software development for its unique combination of technical and 
 </div>
   
 <hr>
-
-
-<p align="center"><img align="center" src="https://github.com/tommosaurus/tommosaurus/blob/output/github-contribution-grid-snake.svg" /></p>
   
 <div align="center">
    <img src="https://raw.githubusercontent.com/tommosaurus/tommosaurus/output/github-contribution-grid-snake.svg" alt="Snake game"/>
